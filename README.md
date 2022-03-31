@@ -35,28 +35,50 @@
   </a> &nbsp;
   
   <a href='https://www.react.org/'>
-  <img src='https://img.shields.io/badge/react-61DAFB?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' /> 
+    <img src='https://img.shields.io/badge/react-61DAFB?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' /> 
   </a> &nbsp;
   
   <a href='https://redux.js.org/'>
-  <img src='https://img.shields.io/badge/redux-764ABC?logoWidth=30&labelColor=black&style=for-the-badge&logo=redux' /> 
+    <img src='https://img.shields.io/badge/redux-764ABC?logoWidth=30&labelColor=black&style=for-the-badge&logo=redux' /> 
   </a> &nbsp;
 </p>
 
 <h4>Backend</h4>
 <p>
-  <img src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge" /> &nbsp;
-  <img src="https://img.shields.io/badge/Express-ffffff.svg?&style=for-the-badge&logo=express&logoColor=black" /> &nbsp;
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /> &nbsp;
+  <a href='https://nodejs.org/en/about/'>
+    <img src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge" />
+  </a>  &nbsp;
+  
+  <a href='https://expressjs.com/'>
+    <img src="https://img.shields.io/badge/Express-ffffff.svg?&style=for-the-badge&logo=express&logoColor=black" />
+  </a>  &nbsp;
+  
+  <a href='https://www.postgresql.org/docs/'>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+  </a> &nbsp;
+  
+  <a href='https://sequelize.org/'>
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+  </a> &nbsp;
 </p>
 
 <h4>Dev Tools</h4>
 <p>
-  <img src='https://img.shields.io/badge/git-F05032?logo=git&style=for-the-badge&logoColor=white' /> &nbsp;
-  <img src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Visual studio Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" /> &nbsp;
+  <a href='https://git-scm.com/'>
+  <img src='https://img.shields.io/badge/git-F05032?logo=git&style=for-the-badge&logoColor=white' />
+  </a> &nbsp;
+  
+  <a href='https://github.com/'>
+    <img src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a> &nbsp;
+  
+  <a href='https://www.postman.com/'>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </a> &nbsp;
+  
+  <a href='https://code.visualstudio.com/'>
+    <img src="https://img.shields.io/badge/Visual studio Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </a> &nbsp;
 </p>
 
 <h3 align="center">GITHUB STATS<hr/></h3>
